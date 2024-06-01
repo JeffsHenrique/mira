@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <i>M I R A</i>
+    <img src="https://i.pinimg.com/originals/58/89/72/588972e93d5e0da8a4cb2f7f97108335.gif" alt="Cat animation gif pixel art" width="60px" align="center" />
+</h1>
 
-## Getting Started
+<div align="center">
+    <h3>MIRA - Professional Portfolio</h3>
+    <p>Mira Agda Campos da Costa - Editor and Motion Designer</p>
+    <img src="https://openseauserdata.com/files/a4f8b2f2c00abf48935b8c18437689a6.gif" alt="Cat animation gif pixel art" width="60px" align="center" />
+</div>
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div align="right">
+    <h5>This is a professional website about Mira Agda, her works and skills. Developed and maintained by JeffsHenrique.</h5>
+</div>
